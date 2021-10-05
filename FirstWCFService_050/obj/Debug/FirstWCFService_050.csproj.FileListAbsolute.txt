@@ -1,0 +1,7 @@
+D:\C# VSCODE2019\PAT\FirstWCFService_050\FirstWCFService_050\bin\Debug\FirstWCFService_050.dll.config
+D:\C# VSCODE2019\PAT\FirstWCFService_050\FirstWCFService_050\bin\Debug\FirstWCFService_050.dll
+D:\C# VSCODE2019\PAT\FirstWCFService_050\FirstWCFService_050\bin\Debug\FirstWCFService_050.pdb
+D:\C# VSCODE2019\PAT\FirstWCFService_050\FirstWCFService_050\obj\Debug\FirstWCFService_050.csproj.AssemblyReference.cache
+D:\C# VSCODE2019\PAT\FirstWCFService_050\FirstWCFService_050\obj\Debug\FirstWCFService_050.csproj.CoreCompileInputs.cache
+D:\C# VSCODE2019\PAT\FirstWCFService_050\FirstWCFService_050\obj\Debug\FirstWCFService_050.dll
+D:\C# VSCODE2019\PAT\FirstWCFService_050\FirstWCFService_050\obj\Debug\FirstWCFService_050.pdb
